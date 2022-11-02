@@ -3,7 +3,7 @@
   </a>
   <br />
 
-# Unifi Protocol NodeJS Utils
+# Stability Protocol NodeJS Utils
 
 ## Usage
 
