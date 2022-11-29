@@ -1,4 +1,6 @@
-export interface LogEntry<ContextType extends Record<string, any>> {
+export type ContextType = Record<string, any>;
+
+export interface LogEntry<ContextType> {
   message: string;
   level: "info" | "debug" | "warn" | "error";
   type: string;
