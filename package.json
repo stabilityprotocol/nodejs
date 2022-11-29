@@ -1,6 +1,6 @@
 {
   "name": "@stabilityprotocol/nodejs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Stability Protocol NodeJS Utils",
   "author": "Stability Protocol",
   "repository": "git@github.com:stabilityprotocol/nodejs.git",
